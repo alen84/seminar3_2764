@@ -7,3 +7,5 @@
     *git config --global user.email "alfasnig84@gmail.com"*
 
     *git --version*
+
+![gitpro](https://git-scm.com/images/progit2.png)
